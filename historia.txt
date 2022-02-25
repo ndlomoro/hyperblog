@@ -10,4 +10,9 @@ so fuck your self
 
 mañana voy a tratar de levantarme temprano e ir a tomar un café frente a mi casa. No es muy rico pero me sirve.
 
+<<<<<<< HEAD
 haciendo lo mismo que antes pero desde windows
+=======
+
+agrego cambios para probar las llaves
+>>>>>>> 18e245e186760fa9c56b56b3214fe5b171b08ce0
